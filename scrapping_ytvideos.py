@@ -1,3 +1,4 @@
+# used chatgpt to facilitate this task
 from itertools import islice
 from youtube_comment_downloader import *
 import csv
